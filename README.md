@@ -1,4 +1,4 @@
-Fork of the chrisboulton/php-resque: PHP Resque Worker (and Enqueue)
+Fork of the chrisboulton/php-resque: PHP Resque Worker
 ===========================================
 
 Resque is a Redis-backed library for creating background jobs, placing
